@@ -3,9 +3,9 @@
 ## Ingredients
 * Avocado
 * Coriander
-* Onion
 * Tomate
 * Lemon
 * Salt
+* oil
 
 ## Instructions
